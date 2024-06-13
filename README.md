@@ -1,4 +1,4 @@
-### 👋 Hi! I'm John Nguyen - a digital creative with a current focus on frontend software engineering.
+### 👋 Hi! I'm John "Jawn" Nguyen - a digital creative with a current focus on frontend software engineering.
 
 - 🦄 Design & Dev at CrystalFruit.com, ArtShield.io, and Cara.app
 - 🌱 Constantly adapting to JavaScript's crazy ecosystem since 2015
