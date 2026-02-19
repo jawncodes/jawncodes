@@ -1,6 +1,8 @@
 ### 👋 Hi! I'm John "Jawn" Nguyen - a digital creative with a current focus on frontend software engineering.
 
-- 🦄 Design & Dev at CrystalFruit.com and ArtShield.io.
+Visit my personal website here: [https://www.jawn.codes/](https://www.jawn.codes/)
+
+- 🦄 Design & Dev at [BoomPop](https://boompop.com/) and [CrystalFruit](https://www.crystalfruit.com/).
 - 🌱 Stepping back into the world of software and product engineering.
 - 👯 Open to collaborating on websites, mobile apps, and graphic design projects
 - 👨🏻‍💻 Pronouns: He/Him
